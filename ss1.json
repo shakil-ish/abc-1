@@ -1,51 +1,51 @@
 [
   {
-    "publisher":"Publisher 1",
+    "publisher":"12 am",
     "total":90
 
   },
   {
-    "publisher":"Publisher 2",
+    "publisher":"1 pm",
     "total":50
 
   },
   {
-    "publisher":"Publisher 3",
+    "publisher":"2 pm",
     "total":64
 
   },
   {
-    "publisher":"Publisher 4",
+    "publisher":"3 pm",
     "total":47
 
   },
   {
-    "publisher":"Publisher 5",
+    "publisher":"4 pm",
     "total":76
 
   },
     {
-    "publisher":"Publisher 6",
+    "publisher":"5 pm",
     "total":35
 
   },
   {
-    "publisher":"Publisher 7",
+    "publisher":"6 pm",
     "total":106
 
   },
    {
-    "publisher":"Publisher 8",
+    "publisher":"7 pm",
     "total":60
 
   },
    {
-    "publisher":"Publisher 9",
+    "publisher":"9 pm",
     "total":40
 
   },
    {
-    "publisher":"Publisher 10",
+    "publisher":"10 pm",
     "total":60
 
   }
